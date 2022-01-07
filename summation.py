@@ -1,3 +1,6 @@
+#this is a summation code
+# it takes a range of two values to do a summation for example:
+# [1,3] = 1+2+3 = 6
 
 l = [2,10]
 ini = l[0] 
